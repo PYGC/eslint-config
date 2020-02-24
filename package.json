@@ -1,0 +1,27 @@
+{
+  "name": "@PYGC/eslint",
+  "version": "0.0.1",
+  "description": "PYGC eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint -c index.js *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PYGC/eslint.git"
+  },
+  "author": {
+    "name": "PYGC",
+    "email": "asicfansliu@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PYGC/eslint/issues",
+    "email": "asicfansliu@gmail.com"
+  },
+  "homepage": "https://github.com/PYGC/eslint",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
