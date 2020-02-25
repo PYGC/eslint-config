@@ -4,20 +4,17 @@ My eslint configuration
 
 # Usage
 
+```cmd
+npm i @pygc/eslint-config --save-dev
+```
+
 @ `package.json`
 
 ```json5
 {
-  // ...
-  "scripts": {
-    // ...
-    "check": "eslint *.js"
-  },
 
-  // ...
-  "devDependencies": {
-    // ...
-    "@pygc/eslint-config": "0.0.1",
+  "scripts": {
+    "check": "eslint *.js"
   },
 
   "eslintConfig": {
