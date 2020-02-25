@@ -1,6 +1,6 @@
 {
   "name": "@pygc/eslint-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "PYGC eslint configuration",
   "main": "index.js",
   "scripts": {
